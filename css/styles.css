@@ -186,3 +186,10 @@ input:valid + .invalid {
 input:invalid + .invalid {
   visibility: visible;
 }
+
+article {
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    font-size: 18px;
+}
